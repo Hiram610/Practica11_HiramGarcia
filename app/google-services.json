@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481969698943",
+    "project_id": "appfirebasehiram",
+    "storage_bucket": "appfirebasehiram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481969698943:android:168456de3eca1866f7674a",
+        "android_client_info": {
+          "package_name": "mx.edu.potros.app_firebase_hiram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgU8EwAWrs8MccM8lbkgJ07KxsnUOU2go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
